@@ -1,8 +1,6 @@
 # Hi there 👋
-
-
-
-
+#
+#
 ## About Me
 - 💻 Computer Science student
 - 🎓 Leeds Beckett University
