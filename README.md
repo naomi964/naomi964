@@ -1,13 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
 
-# About Me
+
+
+## About Me
 - 💻 Computer Science student
 - 🎓 Leeds Beckett University
 
-# Currently
+## Currently
 - Learning computer programming
 - Working on my coursework
 
-# Contact
+## Contact
 - 📫 Contact available on request
